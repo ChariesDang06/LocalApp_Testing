@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: local-edu-app-deployment
+    annotations:
+        kubernetes.io/change-cause: "Initial deployment"
+spec:
+    replicas: 5
+    selector:
+        matchLabels:
+            app: local-edu-app
+    template:
+        metadata:
+            name: chariesdang
+            labels:
+                env: prod
+                app: local-edu-app
+                app.kubernetes.io/name: local-edu-app
+        spec:
+            containers:
+               - name: local-edu-app
+                 image: chariesdang/local-edu-app:v1
+                 ports:
+                    - containerPort: 80
+                      name: http-web-api
+                 resources:
+                    requests:
+                        cpu: 100m
+                        memory: 100Mi
+                    limits:
+                        cpu: 200m
+                        memory: 200Mi
+                 env: 
+                    - name: ASPNETCORE_URLS
+                      value: http://+:80
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+    name: my-lb-service
+spec:
+    selector:
+        app.kubernetes.io.name: local-edu-app
+    ports:
+        - name: local-edu-app-port
+          protocol: TCP
+          port: 7290
+          targetPort: 80
+    type: LoadBalancer
