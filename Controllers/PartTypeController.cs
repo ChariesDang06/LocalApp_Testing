@@ -93,9 +93,11 @@ namespace LocalEdu_App.Controllers
             if (!_partTypeRepository.DeletePartType(partTypeToDelete))
             {
                 ModelState.AddModelError("", "Something went wrong deleting owner");
+                return StatusCode(500, ModelState);
             }
 
             return NoContent();
         }
+
     }
 }

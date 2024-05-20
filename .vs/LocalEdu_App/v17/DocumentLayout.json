@@ -3,100 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\controllers\\partcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:controllers\\partcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\localedu_app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:localedu_app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\interfaces\\iappuserropsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:interfaces\\iappuserropsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\dto\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:dto\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\localedu_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:localedu_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\unittests\\controllers\\userprogresscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:unittests\\controllers\\userprogresscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\controllers\\userprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:controllers\\userprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\controllers\\parttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:controllers\\parttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\automapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:automapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\interfaces\\iuserprogressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:interfaces\\iuserprogressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\interfaces\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:interfaces\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\interfaces\\iparttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:interfaces\\iparttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\interfaces\\ipartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:interfaces\\ipartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|c:\\users\\quynh\\desktop\\web_apis\\localedu_app\\unittests\\controllers\\parttypecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD242B2-CFB8-413A-AD83-3784A922EEDB}|LocalEdu_App.csproj|solutionrelative:unittests\\controllers\\parttypecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,323 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PartController.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\PartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PartController.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\PartController.cs",
-              "RelativeToolTip": "Controllers\\PartController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T07:25:36.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Dto\\AppUserDto.cs",
-              "RelativeDocumentMoniker": "Dto\\AppUserDto.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Dto\\AppUserDto.cs",
-              "RelativeToolTip": "Dto\\AppUserDto.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T06:16:09.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LocalEdu_App.csproj",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\LocalEdu_App.csproj",
-              "RelativeDocumentMoniker": "LocalEdu_App.csproj",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\LocalEdu_App.csproj",
-              "RelativeToolTip": "LocalEdu_App.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-31T05:21:13.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocalEdu_App.http",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\LocalEdu_App.http",
-              "RelativeDocumentMoniker": "LocalEdu_App.http",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\LocalEdu_App.http",
-              "RelativeToolTip": "LocalEdu_App.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-29T12:51:05.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUserController.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\AppUserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AppUserController.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\AppUserController.cs",
-              "RelativeToolTip": "Controllers\\AppUserController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T12:20:21Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-31T05:24:01.922Z",
+              "Title": "PartTypeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\UnitTests\\Controllers\\PartTypeControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Controllers\\PartTypeControllerTests.cs",
+              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\UnitTests\\Controllers\\PartTypeControllerTests.cs",
+              "RelativeToolTip": "UnitTests\\Controllers\\PartTypeControllerTests.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAuwLYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:43:32.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwEMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T03:39:39.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAppUserRopsitory.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IAppUserRopsitory.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IAppUserRopsitory.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IAppUserRopsitory.cs",
-              "RelativeToolTip": "Interfaces\\IAppUserRopsitory.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA0wBEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:24:51.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Seed.cs",
-              "RelativeDocumentMoniker": "Seed.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Seed.cs",
-              "RelativeToolTip": "Seed.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:23:28.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAIBJwGkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:06:09.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAABQAAAAAAAAAAABRwAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-31T03:31:22.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Models\\AppUser.cs",
-              "RelativeToolTip": "Models\\AppUser.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA4wA0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:23:45.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Part.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Models\\Part.cs",
-              "RelativeDocumentMoniker": "Models\\Part.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Models\\Part.cs",
-              "RelativeToolTip": "Models\\Part.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T07:11:58.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\AutoMapper\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "AutoMapper\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\AutoMapper\\MappingProfiles.cs",
-              "RelativeToolTip": "AutoMapper\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T05:15:49.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TopicController.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\TopicController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TopicController.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\TopicController.cs",
-              "RelativeToolTip": "Controllers\\TopicController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAkwAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T06:13:20.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PartTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\PartTypeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PartTypeController.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\PartTypeController.cs",
-              "RelativeToolTip": "Controllers\\PartTypeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T05:20:52.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "UserProgressController.cs",
               "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\UserProgressController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserProgressController.cs",
               "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Controllers\\UserProgressController.cs",
               "RelativeToolTip": "Controllers\\UserProgressController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAATAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAuwE0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T12:20:44.272Z",
+              "WhenOpened": "2024-05-20T15:36:18.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IPartTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IPartTypeRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IPartTypeRepository.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IPartTypeRepository.cs",
-              "RelativeToolTip": "Interfaces\\IPartTypeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserProgressControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\UnitTests\\Controllers\\UserProgressControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Controllers\\UserProgressControllerTests.cs",
+              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\UnitTests\\Controllers\\UserProgressControllerTests.cs",
+              "RelativeToolTip": "UnitTests\\Controllers\\UserProgressControllerTests.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAALIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:25:00.176Z",
+              "WhenOpened": "2024-05-20T15:29:20.563Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ITopicRepository.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\ITopicRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ITopicRepository.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\ITopicRepository.cs",
-              "RelativeToolTip": "Interfaces\\ITopicRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:25:15.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:17:14.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUserProgressRepository.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IUserProgressRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUserProgressRepository.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IUserProgressRepository.cs",
-              "RelativeToolTip": "Interfaces\\IUserProgressRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:25:19.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IPartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IPartRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IPartRepository.cs",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Interfaces\\IPartRepository.cs",
-              "RelativeToolTip": "Interfaces\\IPartRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T04:24:54.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "deployment.yaml",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\deployment.yaml",
-              "RelativeDocumentMoniker": "deployment.yaml",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\deployment.yaml",
-              "RelativeToolTip": "deployment.yaml",
-              "ViewState": "AQIAAB0AAAAAAAAAAIBZwDEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-03-30T07:42:26.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\quynh\\Desktop\\Web_APIs\\LocalEdu_App\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-29T12:21:26.195Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

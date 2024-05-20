@@ -31,6 +31,8 @@ namespace LocalEdu_App.Repository
             return Save();
         }
 
+        
+
         public AppUser GetAppUserByAvtSrc(string avtSrc)
         {
             return _context.AppUsers.Where(p => p.AvtSrc == avtSrc).FirstOrDefault(); ;

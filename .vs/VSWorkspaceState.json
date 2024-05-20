@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutoMapper",
+    "\\Controllers",
+    "\\Data",
+    "\\Dto",
+    "\\Interfaces",
+    "\\Models",
+    "\\Repository",
+    "\\UnitTests",
+    "\\UnitTests\\Controllers"
   ],
   "SelectedNode": "\\LocalEdu_App.sln",
   "PreviewInSolutionExplorer": false

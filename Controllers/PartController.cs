@@ -40,10 +40,10 @@ namespace LocalEdu_App.Controllers
         [ProducesResponseType(200)]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
-        public IActionResult CreateAppUser([FromQuery] string topicId, [FromBody] PartDto partCreated)
+        public IActionResult CreatePart([FromQuery] string topicId, [FromBody] PartDto partCreated)
         {
             if (partCreated == null)
-                return BadRequest(ModelState);
+                return BadRequest("PartDto cannot be null.");
 
             var part = _partRepository.GetParts()
                 .Where(c => c.Id == partCreated.Id.Trim())
@@ -89,7 +89,7 @@ namespace LocalEdu_App.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
-        public IActionResult UpdateCategory(string partId, [FromBody] PartDto updatePart)
+        public IActionResult UpdatePart(string partId, [FromBody] PartDto updatePart)
         {
             if (updatePart == null)
                 return BadRequest(ModelState);
@@ -100,7 +100,7 @@ namespace LocalEdu_App.Controllers
             if (!_partRepository.PartExist(partId))
             {
                 ModelState.AddModelError("", "Part does not exist");
-                return StatusCode(422, ModelState);
+                return NotFound(); // Return NotFoundResult explicitly
             }
 
             if (!ModelState.IsValid)
@@ -135,6 +135,7 @@ namespace LocalEdu_App.Controllers
             if (!_partRepository.DeletePart(partToDelete))
             {
                 ModelState.AddModelError("", "Something went wrong deleting category");
+                return StatusCode(500, ModelState);
             }
 
             return Ok("Successfully deleted");

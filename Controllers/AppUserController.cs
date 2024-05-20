@@ -2,6 +2,7 @@
 using LocalEdu_App.Dto;
 using LocalEdu_App.Interfaces;
 using LocalEdu_App.Models;
+using LocalEdu_App.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LocalEdu_App.Controllers
@@ -81,7 +82,7 @@ namespace LocalEdu_App.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
-        public IActionResult UpdateCategory(string appUserId, [FromBody] AppUserDto updateAppUser)
+        public IActionResult UpdateAppUser(string appUserId, [FromBody] AppUserDto updateAppUser)
         {
             if (updateAppUser == null)
                 return BadRequest(ModelState);
@@ -125,6 +126,7 @@ namespace LocalEdu_App.Controllers
             if (!_appUserRopsitory.DeleteAppUser(appUserToDelete))
             {
                 ModelState.AddModelError("", "Something went wrong deleting category");
+                return StatusCode(500, ModelState); // Ensure this line is present
             }
 
             return Ok("Successfully deleted");

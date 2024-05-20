@@ -37,7 +37,7 @@ namespace LocalEdu_App.Controllers
         [ProducesResponseType(200, Type = typeof(Topic))]
         [ProducesResponseType(400)]
 
-        public IActionResult GetAppUser(string topicId)
+        public IActionResult GetTopicById(string topicId)
         {
             if (!_topicRepository.TopicExist(topicId)) { return NotFound(); }
             var toipc = _mapper.Map<TopicDto>(_topicRepository.GetTopicById(topicId));
@@ -69,12 +69,16 @@ namespace LocalEdu_App.Controllers
         [ProducesResponseType(200)]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
-        public IActionResult CreateAppUser([FromBody] TopicDto topicCreate)
+        public IActionResult CreateTopic([FromBody] TopicDto topicCreate)
         {
             if (topicCreate == null)
                 return BadRequest(ModelState);
 
-            var topic = _topicRepository.GetTopics()
+            var topics = _topicRepository.GetTopics();
+            if (topics == null)
+                return StatusCode(500, "Error retrieving topics");
+
+            var topic = topics
                 .Where(c => c.Id == topicCreate.Id.Trim())
                 .FirstOrDefault();
 
@@ -98,12 +102,13 @@ namespace LocalEdu_App.Controllers
             return Ok("Successfully created");
         }
 
+
         [HttpPut("{topicId}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
-        public IActionResult UpdateCategory(string topicId, [FromBody] TopicDto updateTopic)
+        public IActionResult UpdateTopic(string topicId, [FromBody] TopicDto updateTopic)
         {
             if (updateTopic == null)
                 return BadRequest(ModelState);
@@ -146,6 +151,7 @@ namespace LocalEdu_App.Controllers
             if (!_topicRepository.DeleteTopic(topicToDelete))
             {
                 ModelState.AddModelError("", "Something went wrong deleting category");
+                return StatusCode(500, ModelState); // Ensure this line is present
             }
 
             return Ok("Successfully deleted");
